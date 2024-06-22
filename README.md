@@ -23,9 +23,9 @@ This Python script provides a simple GUI to select folders for compression into 
 
 3. **Run the Script**: Open a terminal or command prompt, navigate to the directory where `compress_folder.py` is located, and run the script using the following command:
 
-    ```bash
-    python compress_folder.py
-    ```
+   ```bash
+   python compress_folder.py
+   ```
 
 4. **Select Folder to Compress**: The script will open a file dialog. Navigate to the folder you wish to compress and select it.
 
@@ -45,9 +45,9 @@ This Python script provides a simple GUI to select folders for compression into 
 
 3. **Run the Script**: Open a terminal or command prompt, navigate to the directory where `decompress_zip.py` is located, and run the script using the following command:
 
-    ```bash
-    python decompress_zip.py
-    ```
+   ```bash
+   python decompress_zip.py
+   ```
 
 4. **Select ZIP File to Decompress**: The script will open a file dialog. Navigate to the ZIP file you wish to decompress and select it.
 
